@@ -162,7 +162,7 @@ p{
 
 @media(max-width:479px){
     .hometext{
-        font-size: 30px;
+        font-size: 23px;
         padding-left: 58px;
     }
     .home{
@@ -203,11 +203,15 @@ p{
         padding-top: 0px;
     }
     .footerlink{
-        width: 458px;
-        margin-right: -53px;
+        width: 354px;
+        margin: auto;
     }
     .homecontainer{
         padding-top: 0px;
+    }
+    .slide-img{
+        height: 273px;
+        width: 273px;
     }
 }
 
