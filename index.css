@@ -177,7 +177,7 @@ p{
         height: 1000px;
     }
     .paratext{
-        font-size: 35px;
+        font-size: 31px;
     }
     /* .image{
         padding-top: 42px;
@@ -216,7 +216,16 @@ p{
 }
 
 
-
+@media(max-width:395px)
+{
+    .box1{
+        height: 440px !important;
+    }
+    .logoimg{
+        height: 120px;
+        width: 120px;
+    }
+}
 
 
 
