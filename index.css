@@ -1,0 +1,227 @@
+.container{
+    /* border: 2px solid red !important; */
+    padding-top: 20px;
+}
+.navbar-brand{
+    font-size: 40px;
+    color: black !important;
+}
+.fahome{
+    padding: 5px;
+}
+.nav-link{
+    color: black !important;
+    /* padding: 10px auto ; */
+    /* border: 2px solid red; */
+    margin: auto 18px;
+    font-size: 20px;
+}
+
+.home{
+    background-color: salmon;
+    height: 700px;
+}
+.hometext{
+    width: 80%;
+    line-height: 2;
+    display: block;
+    font-size: 45px;
+    font-family:'Merriweather', serif;
+    margin: 45px 0px;
+}
+
+.box1{
+    /* border: 2px solid red; */
+    /* margin-top: 20px; */
+    height: 650px;
+}
+
+.home-img{
+    transform: rotate(25deg) !important;
+    /* border: 2px solid red; */
+    height: 700px;
+}
+
+.phoneimg{
+    height: 650px;
+    /* margin-bottom: 1px; */
+    margin:  auto;
+    position: absolute;
+}
+
+.btn{
+    /* margin-left: 94px; */
+}
+.about{
+    height: 550px;
+    padding: 4% 14%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.feature{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+
+.fa-solid{
+    margin-top: 19px;
+    color: salmon;
+}
+.fa-solid:hover{
+    color: rgb(247, 116, 101);
+}
+
+.h3{
+    margin-top: 17px;
+}
+p{
+    font-size: 23px;
+}
+/* ------------------------------------------------ */
+.slide{
+    height: 650px;
+    width: 100%;
+    text-align: center;
+    background-color: salmon;
+}
+
+.slide-img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 50px;
+}
+.paratext{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    /* border: 2PX SOLID red; */
+    width: 100%;
+    /* text-align: center; */
+    display: block;
+    /* margin-left: 176px; */
+    line-height: 2;
+    margin: auto;
+}
+.image{
+    /* height: 300px; */
+    background-color: salmon;
+    border: 2px soldi red;
+    padding: 0% 19%;
+}
+.carousel-item{
+    padding: 7% 10%;
+}
+
+.price{
+    padding: 4% 10%;
+    text-align: center;
+}
+
+.pricing-card{
+    padding: 1% 1%;
+}
+.row{
+    padding: 7% 10%;
+}
+/* -------------------------------------------------------------- */
+
+.footer{
+    background-color: salmon;
+    padding: 2% 15%;
+    text-align: center;
+}
+.footerh3{
+    margin: 5% 0%;
+    width:100%;
+    padding: 0% 33%;
+    /* border: 2px solid red; */
+    /* text-align: center; */
+}
+.btnfooter{
+    margin-left: 3%;
+}
+
+.footerlink{
+    background-color: white;
+}
+.icon{
+    color: black;
+    font-size: 28px !important;
+    padding: 1px 28px;
+}
+.footercontainer{
+    /* border: 2px solid red; */
+    height: 98px;
+}
+
+/* --------------------------------------------------- */
+
+@media(max-width:479px){
+    .hometext{
+        font-size: 30px;
+        padding-left: 58px;
+    }
+    .home{
+        height: 825px;
+        text-align: center;
+    }
+    .image{
+        padding: 0%;
+        text-align: center;
+    }
+    .about{
+        height: 1000px;
+    }
+    .paratext{
+        font-size: 35px;
+    }
+    /* .image{
+        padding-top: 42px;
+    } */
+    .footerh3{
+        padding: 0%;
+    }
+    .footer{
+        padding: 0%;
+        height: 179px;
+        padding-top: 3px;
+    }
+    .home-img{
+        transform: rotate(0deg) !important;
+        height: 400px;
+        padding-right: 183px;
+    }
+    .phoneimg{
+        height: 400px;
+    }
+    .box1{
+        height: 400px;
+        padding-top: 0px;
+    }
+    .footerlink{
+        width: 458px;
+        margin-right: -53px;
+    }
+    .homecontainer{
+        padding-top: 0px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
