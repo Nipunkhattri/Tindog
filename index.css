@@ -128,7 +128,11 @@ p{
     padding: 7% 10%;
 }
 /* -------------------------------------------------------------- */
-
+.formcontain{
+    font-family: 'Akshar', sans-serif;
+    font-size: 22px;
+    font-style: bold;
+}
 .footer{
     background-color: salmon;
     padding: 2% 15%;
@@ -157,6 +161,7 @@ p{
     /* border: 2px solid red; */
     height: 98px;
 }
+
 
 /* --------------------------------------------------- */
 
